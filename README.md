@@ -13,4 +13,11 @@
 - Dynamic Charts: Includes bar charts, line charts, and pie charts that update based on user interactions.
 - Data Insights: Provides insights into popular content categories, trends over time, and regional performance.
 
+# What's Done
+
+- Data imported and cleaned for visualization.
+- Key metrics identified and visualized in multiple formats.
+- Interactive dashboard built with filters and dynamic components.
+
+
 
