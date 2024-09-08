@@ -19,5 +19,12 @@
 - Key metrics identified and visualized in multiple formats.
 - Interactive dashboard built with filters and dynamic components.
 
+# Visual Components
 
+- The following visual components are used in this dashboard:
+
+- Bar Charts: Visualizing the count of content by categories like genre and content type.
+- Line Charts: Tracking viewer statistics and trends over time.
+- Pie Charts: Displaying proportional data like distribution across content ratings.
+- Filters: Enabling users to drill down into the data by categories, regions, and other relevant dimensions.
 
